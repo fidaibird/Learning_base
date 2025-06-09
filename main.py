@@ -1,3 +1,7 @@
 import numpy as np
+from ucimlrepo import fetch_ucirepo
 import pandas as pd
-print("Pandas version:", pd.__version__)
+import matplotlib.pyplot as plt
+from sklearn import datasets
+import torch
+
